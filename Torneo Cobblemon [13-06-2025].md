@@ -21,7 +21,7 @@
 
 ---
 
-### **[Nombre pendiente]**  
+### ❌ **Red mist**  
 ![Dragonite](https://play.pokemonshowdown.com/sprites/ani/dragonite.gif)  
 **Composición**: 2 jugadores  
 **Pokémon representativo**: Dragonite  
