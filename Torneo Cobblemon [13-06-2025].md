@@ -5,7 +5,7 @@
 
 ## 👥 Equipos Participantes
 
-### 🐉 **Superiors**  
+### 👑 **Superiors**  
 ![Hydreigon](https://play.pokemonshowdown.com/sprites/ani/hydreigon.gif)  
 **Composición**: 3 jugadores  
 **Pokémon representativo**: Hydreigon  
