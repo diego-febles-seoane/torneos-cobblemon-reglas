@@ -23,8 +23,8 @@
 
 ### ❌ **Red mist**  
 ![Dragonite](https://play.pokemonshowdown.com/sprites/ani/dragonite.gif)  
-**Composición**: 2 jugadores (Kirby esta baneado hasta que sea castigado)
-**Miembros**: Lobito - Beta [Lider]
+**Composición**: 2 jugadores 
+**Miembros**: Kirby - Lobito - Beta [Lider] 
 
 
 ---
