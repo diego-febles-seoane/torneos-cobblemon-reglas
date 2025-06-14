@@ -54,23 +54,24 @@
 
 Cada jugador debe formar un equipo de **6 Pokémon**, siguiendo esta estructura temática:
 
-### 1. 🌱 **Starter (1)**
+### 1. 🌱 **Starter **
 - Pokémon inicial clásico o **Fatemon** (starter del mod).
 
-### 2. 🐛 **Primera Ruta (1)**
+### 2. 🐛 **Primera Ruta **
 - Pokémon comunes del inicio del juego (tipo Bicho, Normal, Volador).
+- En caso de escoger un fakemon, digan en que ruta apareceria
 
-### 3. ✨ **Pokémon Raro (1)**
+### 3. ✨ **Pokémon Raro **
 - Pokémon de aparición poco común o con condiciones especiales para obtenerlos.
 
-### 4. 💩 **Pokémon Infravalorado (1)**
+### 4. 💩 **Pokémon Infravalorado **
 - Pokémon considerado débil o ignorado, elegido por gusto personal.  
   - Requiere **justificación breve** por parte del jugador.
 
-### 5. 💪 **Pokémon Potente / Sublegendario (1)**
+### 5. 💪 **Pokémon Potente / Sublegendario **
 - Sublegendario o no legendario con alto rendimiento (ej. Metagross, Volcarona, Aegislash).
 
-### 6. 🛐 **Pokémon Legendario (1)**
+### 6. 🛐 **Pokémon Legendario **
 - Se permite **un legendario** **con un máximo de 800 puntos base**.
 
 ---
