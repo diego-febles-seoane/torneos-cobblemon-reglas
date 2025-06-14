@@ -13,7 +13,7 @@
 
 ---
 
-### **[Nombre pendiente]**  
+### 😎 **Migajeros**  
 ![Sceptile](https://play.pokemonshowdown.com/sprites/ani/sceptile.gif)  
 **Composición**: 3 jugadores  
 **Pokémon representativo**: Sceptile  
