@@ -72,7 +72,6 @@ Cada jugador debe formar un equipo de **6 Pokémon**, siguiendo esta estructura 
 
 ### 6. 🛐 **Pokémon Legendario (1)**
 - Se permite **un legendario** **con un máximo de 800 puntos base**.
-- **Paradojas** se permiten **en cualquier categoría**, si no superan **600 puntos base**.
 
 ---
 
@@ -96,6 +95,7 @@ Los jugadores pueden usar libremente todas estas mecánicas en combate:
 - 🔒 El equipo debe mantenerse **idéntico** durante todo el torneo.
 - ✅ Todos los movimientos y combinaciones deben ser **legales y estables en el mod**.
 - ⚖️ Los jugadores deben asegurarse de tener a sus Pokémon bien entrenados y balanceados.
+- **Paradojas** se permiten **en cualquier categoría**, si no superan **600 puntos base**.
 
 ---
 
