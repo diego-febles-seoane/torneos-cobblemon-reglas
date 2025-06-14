@@ -14,7 +14,7 @@
 ---
 
 ### 😎 **Migajeros**  
-![Sceptile](https://play.pokemonshowdown.com/sprites/ani/sceptile.gif)  
+![Sceptile](https://play.pokemonshowdown.com/sprites/ani/haxorus.gif)  
 **Composición**: 3 jugadores  
 **Miembros**: Ayax - Silk - Zack [Lider] 
 
