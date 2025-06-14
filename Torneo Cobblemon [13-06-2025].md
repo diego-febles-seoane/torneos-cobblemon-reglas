@@ -8,7 +8,7 @@
 ### 👑 **Superiors**  
 ![Hydreigon](https://play.pokemonshowdown.com/sprites/ani/hydreigon.gif)  
 **Composición**: 3 jugadores  
-**Pokémon representativo**: Hydreigon  
+**Miembros**: Reki - Pipe - Raptor [Lider] 
 
 
 ---
@@ -16,15 +16,15 @@
 ### 😎 **Migajeros**  
 ![Sceptile](https://play.pokemonshowdown.com/sprites/ani/sceptile.gif)  
 **Composición**: 3 jugadores  
-**Pokémon representativo**: Sceptile  
+**Miembros**: Ayax - Silk - Zack [Lider] 
 
 
 ---
 
 ### ❌ **Red mist**  
 ![Dragonite](https://play.pokemonshowdown.com/sprites/ani/dragonite.gif)  
-**Composición**: 2 jugadores  
-**Pokémon representativo**: Dragonite  
+**Composición**: 2 jugadores (Kirby esta baneado hasta que sea castigado)
+**Miembros**:  Lobito - Beta [Lider]
 
 
 ---
